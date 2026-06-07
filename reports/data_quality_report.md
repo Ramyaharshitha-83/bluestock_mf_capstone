@@ -86,3 +86,11 @@ Each dataset was evaluated for:
 - `04_monthly_sip_inflows.csv` is the only dataset with missing values and should be inspected further to determine whether those gaps can be filled or require handling.
 
 - AMFI code validation passed: all `amfi_code` values in `01_fund_master.csv` were found in `02_nav_history.csv`, with no missing scheme codes detected.
+
+#EDA of Datsets
+
+1. Most transactions are SIPs.
+2. High-risk funds show higher returns.
+3. Certain states dominate investments.
+4. Sharpe ratio strongly correlates with returns.
+5. Top funds consistently outperform benchmarks.
