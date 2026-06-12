@@ -94,3 +94,11 @@ Each dataset was evaluated for:
 3. Certain states dominate investments.
 4. Sharpe ratio strongly correlates with returns.
 5. Top funds consistently outperform benchmarks.
+
+## Advanced Insights
+
+1. Funds with the highest VaR show the greatest downside risk.
+2. CVaR reveals the average loss during extreme market declines.
+3. Recent investor cohorts contribute the highest investment amounts.
+4. Investors with SIP gaps above 35 days are more likely to discontinue investing.
+5. Funds with high Sharpe ratios and low HHI provide better risk-adjusted diversification.
